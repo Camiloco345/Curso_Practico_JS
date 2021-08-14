@@ -7,7 +7,22 @@
     <script src="Test_2.js"></script>
     <title>Descuentos</title>
 </head>
+<header>
+    <h1>Este es el segundo taller del curso</h1>
+</header>
 <body>
-    <h1>Porcentajes y Descuentos</h1>
+    <section>
+        <h2>Caclula el precio a pagar e tus productos con el descuento</h2>
+        <form>
+            <label for="Valor">Escrbe el precio de tu producto</label>
+            <input id="Valor" type="number">
+
+            <label for="Descu">Escrbe el valor de descuento</label>
+            <input id="Descu" type="number">
+            
+            <input type="button" value="Calcular" onclick="CalculoDeDescuento()">
+        </form>
+    <p id="FinalPrice"></p>
+    </section>
 </body>
 </html>
