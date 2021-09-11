@@ -7,3 +7,9 @@
 -Implementar la formula en JS
 -Crear funciones 
 -Conectar el html a JS
+
+##Taller3: Hacer un formula para Media - Mediana - Moda
+-Definir la formula
+-Implementar la formula en JS
+-Crear funciones 
+-Conectar el html a JS
