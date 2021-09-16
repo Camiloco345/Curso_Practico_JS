@@ -1,4 +1,8 @@
 let Salarios = []
+Salarios.push({
+  name: "Angélica",
+  salary: 600,
+});
 
 Salarios.push({
     name: "Camila",
@@ -48,10 +52,7 @@ Salarios.push({
     name: "Rosa",
     salary: 400,
   });
-  Salarios.push({
-    name: "Angélica",
-    salary: 400,
-  });
+  
   Salarios.push({
     name: "Tatiana",
     salary: 400,
