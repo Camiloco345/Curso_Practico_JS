@@ -31,6 +31,7 @@ let medianaSalarios = (lista) =>{
     else{
        let mediana = lista[mitad]
        return mediana
+       
     }
 
 }
